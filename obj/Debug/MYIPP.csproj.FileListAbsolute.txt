@@ -1,0 +1,10 @@
+C:\Users\salha\Desktop\C##\MYIPP\bin\Debug\MYIPP.exe.config
+C:\Users\salha\Desktop\C##\MYIPP\bin\Debug\MYIPP.exe
+C:\Users\salha\Desktop\C##\MYIPP\bin\Debug\MYIPP.pdb
+C:\Users\salha\Desktop\C##\MYIPP\obj\Debug\MYIPP.csprojAssemblyReference.cache
+C:\Users\salha\Desktop\C##\MYIPP\obj\Debug\MYIPP.Form1.resources
+C:\Users\salha\Desktop\C##\MYIPP\obj\Debug\MYIPP.Properties.Resources.resources
+C:\Users\salha\Desktop\C##\MYIPP\obj\Debug\MYIPP.csproj.GenerateResource.cache
+C:\Users\salha\Desktop\C##\MYIPP\obj\Debug\MYIPP.csproj.CoreCompileInputs.cache
+C:\Users\salha\Desktop\C##\MYIPP\obj\Debug\MYIPP.exe
+C:\Users\salha\Desktop\C##\MYIPP\obj\Debug\MYIPP.pdb
